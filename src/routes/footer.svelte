@@ -6,7 +6,7 @@
 
 <!-- Footer -->
 <footer>
-	<p>{config.footerdesc} <Heart color="#e60000" /> {new Date().getFullYear()}</p>
+	<p>{config.footerdesc} <Heart color="#0084ff" /> {new Date().getFullYear()}</p>
 </footer>
 
 <style>

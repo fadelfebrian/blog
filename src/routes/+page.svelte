@@ -40,6 +40,7 @@
 	.title {
 		font-size: var(--font-size-fluid-3);
 		text-transform: capitalize;
+		text-decoration: none;
 	}
 
 	.date {
