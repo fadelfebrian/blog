@@ -18,4 +18,5 @@ perjalanan pertamaku ini bisa dibilang nekat. tanpa persiapan,tanpa peralatan,ta
 
 <!-- perjalanan ini pertama kali muncul karena ajakan temanku yang kebetulan orang tua nya sedang ingin main ke daerah kaki gunung tersebut. -->
 
+hari kemarin gaasikk tidak ada bubble-bubble chatnya yang panjang itu
 segini dulu, ngantuk zzzz
