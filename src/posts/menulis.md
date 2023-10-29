@@ -37,5 +37,4 @@ Aku cinta padamu Pangrango
 
 Karena aku cinta pada keberanian hidup
 
-bubble-bubble chatnya sudah kembaliiii. <br/>
 Segini dulu, cinta itu sederhana yang rumit itu kamoee jiahh.
